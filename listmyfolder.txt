@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5A4C-82E4
+
+ Directory of C:\Users\KubaB\Desktop\GitHub BootesVoid2
+
+2019-08-13  21:06    <DIR>          .
+2019-08-13  21:06    <DIR>          ..
+2019-08-10  20:29    <DIR>          brudnopisy
+2019-08-11  17:58    <DIR>          kurs
+2019-08-13  21:06                 0 listmyfolder.txt
+2019-07-16  21:56    <DIR>          PodstawyMaster
+2019-06-30  21:32    <DIR>          rozszerzenie
+2019-08-10  21:56    <DIR>          sass
+               1 File(s)              0 bytes
+               7 Dir(s)  17ÿ178ÿ759ÿ168 bytes free

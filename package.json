@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "package for libraries",
+  "main": "tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KubaBrambor/nodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KubaBrambor/nodeJS/issues"
+  },
+  "homepage": "https://github.com/KubaBrambor/nodeJS#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
